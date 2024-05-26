@@ -71,7 +71,7 @@
 ### Cài Đặt Hệ Thống Gợi Ý (Python)
 1. Di chuyển đến thư mục hệ thống gợi ý:
     ```bash
-    cd ../recommendation-system
+    cd ../recommend-system-python
     ```
 
 2. Tạo môi trường ảo và kích hoạt nó:
