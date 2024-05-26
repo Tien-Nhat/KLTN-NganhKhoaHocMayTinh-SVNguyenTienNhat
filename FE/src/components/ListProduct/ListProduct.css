@@ -1,0 +1,29 @@
+.icon-hover:hover {
+  border-color: #3b71ca !important;
+  background-color: white !important;
+}
+
+.icon-hover:hover i {
+  color: #3b71ca !important;
+}
+
+.card-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* number of lines to show */
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  height: 48px;
+}
+
+#myCard {
+  transition: transform 0.2s, border-color 0.2s;
+  text-decoration: none;
+  color: black;
+}
+
+#myCard:hover {
+  border: 1px solid #007bff; /* Màu viền xanh khi di chuột vào */
+  transform: translateY(-5px);
+}

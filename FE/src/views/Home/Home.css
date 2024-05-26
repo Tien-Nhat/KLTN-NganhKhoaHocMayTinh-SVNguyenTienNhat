@@ -1,0 +1,50 @@
+.icon-hover:hover {
+  border-color: #3b71ca !important;
+  background-color: white !important;
+}
+
+.icon-hover:hover i {
+  color: #3b71ca !important;
+}
+
+.card-text {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2; /* number of lines to show */
+  line-clamp: 2;
+  -webkit-box-orient: vertical;
+  height: 48px;
+}
+.position {
+  margin-top: 3%;
+  position: relative;
+}
+
+.custom-button {
+  text-decoration: none;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1; /* Đảm bảo nút đè lên hr */
+  background-color: white;
+  border: 2px solid #007bff; /* Viền xanh */
+  color: #007bff; /* Chữ xanh */
+  border-radius: 5px; /* Bo góc */
+  padding: 3px 40px; /* Kích thước nút */
+  cursor: pointer; /* Con trỏ khi rê chuột vào */
+  transition: background-color 0.3s, border-color 0.3s, color 0.3s; /* Hiệu ứng chuyển đổi */
+}
+
+.custom-button:hover {
+  background-color: #007bff; /* Nền xanh khi di chuột vào */
+  color: white; /* Chữ trắng khi di chuột vào */
+}
+
+.line {
+  border: none;
+  border-top: 1px solid #000; /* Màu của hr */
+  position: relative;
+  z-index: 0; /* Đảm bảo hr ở dưới */
+}
