@@ -93,7 +93,7 @@
 ## Chạy Ứng Dụng
 1. Đảm bảo rằng back-end, front-end và hệ thống gợi ý đều đang chạy như đã hướng dẫn ở phần cài đặt.
 
-2. Truy cập ứng dụng front-end bằng cách điều hướng đến `http://localhost:8080` trong trình duyệt web của bạn.
+2. Truy cập ứng dụng front-end bằng cách điều hướng đến `http://localhost:3000` trong trình duyệt web của bạn.
 
 3. Back-end sẽ chạy trên `http://localhost:8081` và API hệ thống gợi ý trên `http://localhost:5000`.
 
