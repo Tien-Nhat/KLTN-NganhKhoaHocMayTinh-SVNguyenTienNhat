@@ -13,12 +13,9 @@
   - [Cài Đặt Hệ Thống Gợi Ý (Python)](#cài-đặt-hệ-thống-gợi-ý-python)
 - [Chạy Ứng Dụng](#chạy-ứng-dụng)
 - [Sử Dụng](#sử-dụng)
-- [Đóng Góp](#đóng-góp)
-- [Giấy Phép](#giấy-phép)
 
 ## Tính Năng
 - Xác thực và phân quyền người dùng
-- Liệt kê và tìm kiếm sản phẩm
 - Chức năng giỏ hàng
 - Đề xuất sản phẩm dựa trên hành vi người dùng
 
@@ -104,13 +101,3 @@
 - Đăng ký và đăng nhập vào ứng dụng.
 - Duyệt sản phẩm, thêm vào giỏ hàng và thực hiện mua hàng.
 - Hệ thống gợi ý sẽ đề xuất sản phẩm dựa trên hành vi duyệt và mua hàng của bạn.
-
-## Đóng Góp
-Các đóng góp đều được hoan nghênh! Vui lòng gửi pull request hoặc mở issue cho bất kỳ cải tiến hoặc sửa lỗi nào.
-
-## Giấy Phép
-Dự án này được cấp phép theo giấy phép MIT. Xem file [LICENSE](LICENSE) để biết thêm chi tiết.
-
----
-
-Hy vọng phần README này sẽ giúp bạn trình bày dự án của mình một cách rõ ràng và dễ hiểu. Chúc bạn thành công với dự án của mình!
