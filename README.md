@@ -1,8 +1,4 @@
----
-
 # Website Thương Mại Điện Tử với Hệ Thống Gợi Ý Sản Phẩm
-
-Đây là kho chứa mã nguồn cho một website thương mại điện tử, bao gồm back-end được xây dựng bằng Spring Boot, front-end được xây dựng bằng Vue.js và hệ thống gợi ý được xây dựng bằng Python. Hệ thống gợi ý cung cấp một API được sử dụng bởi back-end để đề xuất sản phẩm cho người dùng.
 
 ## Mục Lục
 - [Tính Năng](#tính-năng)
