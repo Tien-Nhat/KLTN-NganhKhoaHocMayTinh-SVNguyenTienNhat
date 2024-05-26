@@ -1,0 +1,7 @@
+SQLAlchemy
+pandas
+scikit-learn
+pyvi
+scipy
+Flask
+Flask-Cors
