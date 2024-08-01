@@ -84,6 +84,10 @@
     ```bash
     npm run serve
     ```
+### Demo
+![image](https://github.com/user-attachments/assets/da46af15-164b-4cfe-ad54-40f98cf306de)
+![image](https://github.com/user-attachments/assets/0ecf6cfe-b5d0-4af3-8490-38444d63fa2d)
+
 
 ## Chạy Ứng Dụng
 1. Đảm bảo rằng back-end, front-end và hệ thống gợi ý đều đang chạy như đã hướng dẫn ở phần cài đặt.
