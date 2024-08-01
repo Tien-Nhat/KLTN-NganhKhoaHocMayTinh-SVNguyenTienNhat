@@ -4,9 +4,9 @@
 - [Tính Năng](#tính-năng)
 - [Yêu Cầu](#yêu-cầu)
 - [Cài Đặt](#cài-đặt)
+  - [Cài ĐặtBack-end Hệ Thống Gợi Ý (Python)](#cài-đặt-hệ-thống-gợi-ý-python)
   - [Cài Đặt Back-end (Spring Boot)](#cài-đặt-back-end-spring-boot)
   - [Cài Đặt Front-end (Vue.js)](#cài-đặt-front-end-vuejs)
-  - [Cài Đặt Hệ Thống Gợi Ý (Python)](#cài-đặt-hệ-thống-gợi-ý-python)
 - [Chạy Ứng Dụng](#chạy-ứng-dụng)
 - [Sử Dụng](#sử-dụng)
 
@@ -23,6 +23,27 @@
 - pip (trình quản lý gói Python)
 
 ## Cài Đặt
+### Cài Đặt back-end Hệ Thống Gợi Ý (Python)
+1. Di chuyển đến thư mục hệ thống gợi ý:
+    ```bash
+    cd ../recommend-system-python
+    ```
+
+2. Tạo môi trường ảo và kích hoạt nó:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # Trên Windows dùng `venv\Scripts\activate`
+    ```
+
+3. Cài đặt các phụ thuộc:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Chạy API hệ thống gợi ý:
+    ```bash
+    python recommend-system.py
+    ```
 
 ### Cài Đặt Back-end (Spring Boot)
 1. Clone kho mã nguồn:
@@ -62,28 +83,6 @@
 3. Chạy ứng dụng Vue.js:
     ```bash
     npm run serve
-    ```
-
-### Cài Đặt Hệ Thống Gợi Ý (Python)
-1. Di chuyển đến thư mục hệ thống gợi ý:
-    ```bash
-    cd ../recommend-system-python
-    ```
-
-2. Tạo môi trường ảo và kích hoạt nó:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # Trên Windows dùng `venv\Scripts\activate`
-    ```
-
-3. Cài đặt các phụ thuộc:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Chạy API hệ thống gợi ý:
-    ```bash
-    python recommend-system.py
     ```
 
 ## Chạy Ứng Dụng
