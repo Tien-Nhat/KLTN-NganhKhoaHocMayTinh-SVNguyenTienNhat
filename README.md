@@ -85,6 +85,10 @@
     npm run serve
     ```
 ### Demo
+1. API Python
+   ![image](https://github.com/user-attachments/assets/e11843dd-1ce1-4972-b9b2-de5e6af39bcf)
+
+2. UI
 ![image](https://github.com/user-attachments/assets/da46af15-164b-4cfe-ad54-40f98cf306de)
 ![image](https://github.com/user-attachments/assets/0ecf6cfe-b5d0-4af3-8490-38444d63fa2d)
 
