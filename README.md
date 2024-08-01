@@ -4,7 +4,7 @@
 - [Tính Năng](#tính-năng)
 - [Yêu Cầu](#yêu-cầu)
 - [Cài Đặt](#cài-đặt)
-  - [Cài ĐặtBack-end Hệ Thống Gợi Ý (Python)](#cài-đặt-hệ-thống-gợi-ý-python)
+  - [Cài Đặt Back-end Hệ Thống Gợi Ý (Python)](#cài-đặt-hệ-thống-gợi-ý-python)
   - [Cài Đặt Back-end (Spring Boot)](#cài-đặt-back-end-spring-boot)
   - [Cài Đặt Front-end (Vue.js)](#cài-đặt-front-end-vuejs)
 - [Chạy Ứng Dụng](#chạy-ứng-dụng)
