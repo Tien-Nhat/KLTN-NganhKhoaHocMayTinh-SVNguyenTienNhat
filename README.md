@@ -98,7 +98,7 @@
 
 2. Truy cập ứng dụng front-end bằng cách điều hướng đến `http://localhost:3000` trong trình duyệt web của bạn.
 
-3. Back-end sẽ chạy trên `http://localhost:8081` và API hệ thống gợi ý trên `http://localhost:5000`.
+3. API Spring boot sẽ chạy trên `http://localhost:8081` và API Python flask hệ thống gợi ý trên `http://localhost:5000`.
 
 ## Sử Dụng
 - Đăng ký và đăng nhập vào ứng dụng.
